@@ -21,3 +21,7 @@ You can also upload it to Google Colab.
 ## Installation
 
 Trust me, you don't want this.
+
+## Paper
+
+A copy can be found in this repository, named `heypentti.pdf`.
